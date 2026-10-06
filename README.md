@@ -1,6 +1,6 @@
 # VasiC0rp / begginer
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,unity,vercel,nodejs,electron,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,visualstudio,unity,vercel,nodejs,electron,js,html,css)](https://skillicons.dev)
 
 My pet projects:
 
