@@ -1,6 +1,6 @@
 # VasiC0rp / begginer
 
-[![My Skills](https://skillicons.dev/icons?i=c#,unity,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=csharp,unity,obsidian)](https://skillicons.dev)
 
 My pet projects:
 
