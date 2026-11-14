@@ -1,4 +1,4 @@
-# VasiC0rp / begginer
+# VasiC0rp
 
 [![My Skills](https://skillicons.dev/icons?i=cs,visualstudio,unity,vercel,nodejs,electron,js,html,css)](https://skillicons.dev)
 
